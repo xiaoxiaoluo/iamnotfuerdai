@@ -11,4 +11,5 @@ iamnotfuerdai
 1.I'm a boy;
 2.I like lovely girl;
 3.I like playing football very much;
-4.My girl friend's name is xiaomin yu,she is a very cute girl,*I love her*.
+4.My girl friend's name is xiaomin yu,she is a very cute girl,***I love her***.
+**大奇是傻逼**
